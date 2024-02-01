@@ -1,19 +1,19 @@
 // LINK https://worldpopulationreview.com/country-rankings/list-of-countries-by-continent
 {
 	"Africa":{
-		"Countries": ["Malawi"],
+		"Countries": ["Malawi", "Egipt", "Nigeria"],
 		"Territories" : ["Ceuta (Spain)", "Madeira (Portugal)", "Melilla (Spain)"]
 	},
 	"Asia":{
-		"Countries": ["Japan"],
+		"Countries": ["Japan", "China", "India"],
 		"Territories" : []
 	},
 	"Europe":{
-		"Countries": ["Spain", "Romania"],
+		"Countries": ["Spain", "Romania", "France", "Italy"],
 		"Territories" : ["Gibraltar (UK)", "Isle of Man (UK - crown dependency)", "Faroe Islands (Denmark)"]
 	},
 	"North America":{
-		"Countries": ["Aruba", "Bermuda", "USA"],
+		"Countries": ["Aruba", "Bermuda", "USA", "Cuba", "Aruba"],
 		"Territories" : ["Aruba (Netherlands)", "Bermuda (UK)"]
 	},
 	"Oceania":{
